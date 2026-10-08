@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=
+Comment=A Tauri App
+Exec=enum
+StartupWMClass=enum
+Icon=enum
+Name=enum
+Terminal=false
+Type=Application
